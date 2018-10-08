@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-08T18:18:18Z" name="Suite" finished-at="2018-10-08T18:18:33Z" duration-ms="14597">
+    <groups>
+    </groups>
+    <test started-at="2018-10-08T18:18:18Z" name="com.FirstTest" finished-at="2018-10-08T18:18:29Z" duration-ms="10706">
+      <class name="tests.FirstTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:18Z" name="setupTest" finished-at="2018-10-08T18:18:18Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="GOOGLE0()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:18Z" name="GOOGLE0" finished-at="2018-10-08T18:18:27Z" duration-ms="8538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE0 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:27Z" name="tearDown" finished-at="2018-10-08T18:18:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="GOOGLE2()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:27Z" name="GOOGLE2" finished-at="2018-10-08T18:18:27Z" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:27Z" name="tearDown" finished-at="2018-10-08T18:18:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="GOOGLE3()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:27Z" name="GOOGLE3" finished-at="2018-10-08T18:18:28Z" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:28Z" name="tearDown" finished-at="2018-10-08T18:18:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="GOOGLE4()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:28Z" name="GOOGLE4" finished-at="2018-10-08T18:18:29Z" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:29Z" name="tearDown" finished-at="2018-10-08T18:18:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:tests.FirstTest@610f7aa]" started-at="2018-10-08T18:18:29Z" name="terminate" finished-at="2018-10-08T18:18:29Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- tests.FirstTest -->
+    </test> <!-- com.FirstTest -->
+    <test started-at="2018-10-08T18:18:18Z" name="com.SecondTest" finished-at="2018-10-08T18:18:33Z" duration-ms="14597">
+      <class name="tests.SecondTest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:18Z" name="setupTest" finished-at="2018-10-08T18:18:21Z" duration-ms="2519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="GOOGLE1()[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:21Z" name="GOOGLE1" finished-at="2018-10-08T18:18:26Z" duration-ms="5523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:26Z" name="tearDown" finished-at="2018-10-08T18:18:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="YANDEX()[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:26Z" name="YANDEX" finished-at="2018-10-08T18:18:31Z" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YANDEX -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:31Z" name="tearDown" finished-at="2018-10-08T18:18:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:tests.SecondTest@1356d4d4]" started-at="2018-10-08T18:18:31Z" name="terminate" finished-at="2018-10-08T18:18:33Z" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- tests.SecondTest -->
+    </test> <!-- com.SecondTest -->
+  </suite> <!-- Suite -->
+</testng-results>
